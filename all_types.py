@@ -1,4 +1,4 @@
+
 class CrawlMode:
-    SPACE_SAVER = 0
-    TIME_SAVER = 1 
-    
+    DRIVER_DIRECT = 0
+    DOWNLOAD_HTML = 1 
